@@ -1,5 +1,7 @@
 # events — EntradasYa
 
+[![CI](https://github.com/jdguior06/entradasya-events/actions/workflows/ci.yml/badge.svg?branch=development)](https://github.com/jdguior06/entradasya-events/actions/workflows/ci.yml)
+
 Administra el catálogo de eventos, sus sectores (precio y cupo) y las **reservas de cupo** que pide orders. Garantiza que **nunca se venda más que el cupo**.
 
 - Puerto: **3002** · Base de datos: **events_db** · Llama a: ningún servicio (solo responde)
